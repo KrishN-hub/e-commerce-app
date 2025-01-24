@@ -1,0 +1,15 @@
+flutter_native_splash:
+  color: "#FFFFFF"
+  color_dark: "#272727"
+  image: F:\flutter app\e_commerce\assets\icons\logo-splash-black.png
+  image_dark: F:\flutter app\e_commerce\assets\icons\logo-splash-white.png
+
+
+  android_12:
+    color: "#FFFFFF"
+    color_dark: "#272727"
+    image: F:\flutter app\e_commerce\assets\icons\logo-splash-black.png
+    image_dark: F:\flutter app\e_commerce\assets\icons\logo-splash-white.png
+
+  web: false
+  

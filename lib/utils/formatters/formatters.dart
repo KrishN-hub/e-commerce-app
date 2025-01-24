@@ -1,4 +1,4 @@
-import 'package:intl/intl.dart';
+/*import 'package:intl/intl.dart';
 
 class TFormatter {
   static String formatDate(DateTime? date) {
@@ -25,7 +25,7 @@ class TFormatter {
 
   // Not fully tested.
 
-  static String internationalFormatPhoneNumber(String phoneNumber) {
+   static String internationalFormatPhoneNumber(String phoneNumber) {
     //Remove any non-digit characters from the  phone number
     var digitsOnly = phoneNumber.replaceAll(RegExp(r'\D'), '');
 
@@ -53,4 +53,4 @@ class TFormatter {
       i = end;
     }
   }
-}
+} */
